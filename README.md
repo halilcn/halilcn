@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?halilcn)
+![](https://komarev.com/ghpvc/?username=halilcn&color=dc143c)
 
 <!--
 **halilcn/halilcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
