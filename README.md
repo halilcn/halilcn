@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=halilcn&color=brightgreen)
+
 <!--![](https://komarev.com/ghpvc/?username=halilcn&color=dc143c) -->
 
 <!--
